@@ -1,0 +1,6 @@
+#configure as whitelist
+*
+!*/
+
+#allow jars
+!*.jar
