@@ -4,3 +4,4 @@
 
 #allow jars
 !*.jar
+!*.jard
